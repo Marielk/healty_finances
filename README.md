@@ -1,27 +1,39 @@
-# Healtyfinances
+# Healthy Finances
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+## About this proyect 🚀
 
-## Development server
+This is an App that determines the level of indebtedness of the user through machine learning, identifying different profiles, this in order to propose a personalized plan that invites and accompanies people to meet their financial goals, whether they are be out of over-indebtedness or Avoid falling into it.
+Maintaining healthy levels of indebtedness allows people to improve their quality of life, reduce poverty and also allows them to access other products and services.
+We seek to predict, determine and reduce the level of indebtedness, since currently in Chile families have a debt equivalent to 73.3% of their disposable income, this exceeds the recommended percentage of healthy indebtedness, which is 40%.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+You can see a deploy page in: 
+()
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### How to use it🔧
 
-## Build
+_Steps to run app_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```
+# install dependencies
+$ npm install # Or yarn install
+```
+Next
 
-## Running unit tests
+```
+# serve with hot reload at localhost:4200
+$ ng serve
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+The App will be running on port 4200 (http://localhost:4200/)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Made by ✒️
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* **Mariel Quezada** - *Developer* - [Marielk](https://github.com/Marielk)
+* **Karyn Herrera** - *Developer* - [Marielk](https://github.com/Marielk)
+* **Majo Salazar** - *Product Manager* - [Marielk](https://github.com/Marielk)
+* **Francisca Mora** - *UX Designer* - [Marielk](https://github.com/Marielk)
+* **Camila Navarrete** - *UX Designer* - [Marielk](https://github.com/Marielk)
+:woman: :computer:. 
+> Angular.js project
